@@ -1,0 +1,194 @@
+ 
+ body{
+     min-height: 2000px;
+     background-color: rgba(17, 18, 20, 2.60) !important;
+     
+ }
+ nav{
+   
+     background-color: rgba(17, 18, 20, 2.60);
+     font-size:20px;
+
+ }
+.about1{
+    background-color: rgba(17, 18, 20, 2.60);
+    padding-left: 4rem;
+    padding-right: 4rem;
+    padding-top: 4rem;
+    
+
+}
+.tes{
+    background-color: rgba(17, 18, 20, 2.60);
+    padding-left: 4rem;
+    padding-right: 4rem;
+    
+}
+.jumbotron{
+     padding: 6rem;
+     padding-bottom:2rem ;
+     padding-left: 4rem;
+     padding-right: 4rem;
+     
+     background-color: rgb(17, 14, 14);
+     
+     color:whitesmoke;
+}
+.gambar{
+    float: right !important;
+    padding-top: 1rem;
+    margin-top: -7rem;
+    margin-right: 1rem;
+    padding-right: 1rem;
+    border-radius:  4px red solid;
+
+    
+    
+}
+.card-body{
+    background-color: rgb(17, 14, 14);
+}
+.card{
+    padding: 2rem;
+    background-color: rgb(17, 14, 14);
+}
+.container1{
+    background-color: rgba(17, 18, 20, 2.60);
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-top: 6rem;
+}
+.container2{
+    background-color: rgba(17, 18, 20, 2.60);
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-top: 1rem;
+}
+.container4{
+    background-color: rgba(17, 18, 20, 2.60);
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-top: -1rem;
+    background-color: rgb(17, 14, 14);
+    height: 200px;
+}
+
+.container5{
+    background-color: rgba(17, 18, 20, 2.60);
+    
+    padding-top: -1rem;
+    background-color: rgb(17, 14, 14);
+
+}
+.container3{
+    background-color: rgba(17, 18, 20, 2.60);
+    padding-left: 15rem;
+    padding-right: 15rem;
+    margin-bottom: 20px;
+    float:center;
+  
+}
+.gambar-container3{
+
+    margin-bottom: 40px;
+    float:center;
+
+  
+}
+
+
+.card-bawah{
+    width: 15rem;
+    height: 15rem;
+    
+}
+@media (max-width: 800px) { .gambar{
+    display:none;
+    
+}
+.jumbotron{
+    text-align: center;
+}
+
+.btn:hover {
+    opacity: 1;
+    transform: scale(1.33);   
+    border:none;
+}
+
+
+}
+
+@media (max-width: 379px) { .jumbotron{
+    text-align: center;
+    
+
+    }
+    img{
+         text-align:justify;
+         margin-top: 1px;
+    }
+   
+   
+       
+   }
+   .btn:hover {
+    opacity: 1;
+    transform: scale(1.33);   
+    border:none;
+}
+}
+
+ 
+ @media (max-width: 991.98px) { .gambar{
+     display :none
+     text-align: center;
+ } 
+}
+@media (max-width: 575.98px) { 
+    .gambar{
+    display :none
+    
+    
+}
+ .jumbotron{
+     text-align: center;
+ }
+ img{
+     display: none;
+ }
+ }
+ 
+ img:hover{
+    transition: 1s; 
+    transform: scale(0.9);   
+   
+  
+ }
+ .gambar:hover{
+    transition: 1s; 
+    transform: scale(0.5.11);   
+   
+  
+ }
+
+
+
+ .btn{
+    opacity: 0.5;
+    transition: 1s;
+ }
+ .btn:hover {
+     opacity: 0.9;
+ }
+ 
+ @media (max-width: 600px){
+    .gambar-skill{
+        padding-left: 30rem;
+    padding-right: 30rem;
+    float: center;
+    }
+ }
+
+ 
+ 
